@@ -7,5 +7,6 @@ picom --experimental-backends --config ~/github/picom/picom.conf &
 
 #/bin/bash ~/scripts/tap-to-click.sh &
 #/bin/bash ~/scripts/inverse-scroll.sh &
+xfce4-power-manager &
 #xfce4-volumed-pulse &
 ~/scripts/autostart_wait.sh &
